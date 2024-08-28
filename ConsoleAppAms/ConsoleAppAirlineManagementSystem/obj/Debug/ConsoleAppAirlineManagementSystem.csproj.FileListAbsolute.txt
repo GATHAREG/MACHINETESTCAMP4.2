@@ -1,0 +1,10 @@
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\obj\Debug\ConsoleAppAirlineManagementSystem.csproj.AssemblyReference.cache
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\obj\Debug\ConsoleAppAirlineManagementSystem.csproj.CoreCompileInputs.cache
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\bin\Debug\ConsoleAppAirlineManagementSystem.exe.config
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\bin\Debug\ConsoleAppAirlineManagementSystem.exe
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\bin\Debug\ConsoleAppAirlineManagementSystem.pdb
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\bin\Debug\SqlServerConnectionLibrary.dll
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\bin\Debug\SqlServerConnectionLibrary.pdb
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\obj\Debug\ConsoleA.D43315B0.Up2Date
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\obj\Debug\ConsoleAppAirlineManagementSystem.exe
+C:\ConsoleAppAms\ConsoleAppAirlineManagementSystem\obj\Debug\ConsoleAppAirlineManagementSystem.pdb
